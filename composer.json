@@ -1,5 +1,5 @@
 {
-	"name": "escaleno/Doctrine2",
+	"name": "escaleno/zf1-doctrine2",
 	"description": "Doctrine 2 for Zend Framework 1",
 	"keywords": [
 		"framework",
