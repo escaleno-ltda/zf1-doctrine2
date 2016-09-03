@@ -1,18 +1,26 @@
 {
-	"name": "escaleno/zf1-doctrine2",
-	"description": "Doctrine 2 for Zend Framework 1",
-	"keywords": [
-		"framework",
-		"zf1",
-		"zend",
-		"doctrine2"
-	],
-	"require": {
-		"php": ">=5.3"
-	},
-	"autoload": {
-		"psr-0": {
-			"Doctrine": "library/"
-		}
-	}
+  "name": "escaleno/zf1-doctrine2",
+  "description": "Doctrine 2 for Zend Framework 1",
+  "version": "0.0.1",
+  "type": "library",
+  "keywords": [
+    "framework",
+    "zf1",
+    "zend",
+    "doctrine2"
+  ],
+  "homepage": "https://github.com/escaleno-ltda/zf1-doctrine2",
+  "license": "MIT",
+  "support": {
+    "email": "habla.con@escaleno.cl",
+    "issues": "https://github.com/escaleno-ltda/zf1-doctrine2/issues"
+  },
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "psr-0": {
+      "Doctrine": "library/"
+    }
+  }
 }
